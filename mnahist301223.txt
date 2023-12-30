@@ -1,0 +1,47 @@
+   13  git --version
+   14  sudo apt install git
+   16  git branch
+   17  git clone https://github.com/mnaveedashraf/DevOps_MNARep.git
+   22  git branch
+   23  git help
+   27  git status
+   28  git helo
+   29  git help
+   30  git checkout -- README.md
+   31  git status
+   35  git status
+   36  git checkout -- README.md
+   37  git status
+   41  git status
+   42  git checkout -- README.md
+   43  git checkout -- README.md.swp
+   44  git checkout -- .README.md.swp
+   48  git status
+   50  git status
+   52  git status
+   53  git add README.md
+   54  git Status
+   55  git status
+   57  git status
+   58  git log
+   59  git add README.md
+   60  git status
+   61  git commit -m "Author and Change added"
+   62  git config --global user.email "m.naveed.ashraf@gmail.com"
+   63  git config --global user.name "mnaveedashraf"
+   64  git commit -m "Author and Change added"
+   65  git status
+   66  git push
+   67  git status
+   72  git status
+   85  git clone git@github.com:mnaveedashraf/DevOps_Class_Ned.git
+   87  git clone git@github.com:mnaveedashraf/DevOps_Class_Ned.git
+   88  git status
+   94  git status
+   95  git add .
+   96  git commit -m "Author Added"
+   97  git status
+   98  git push
+   99  git status
+  100  history | grep git
+  101  history | grep git > mnahist301223.txt
