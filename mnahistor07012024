@@ -1,0 +1,308 @@
+    1  sudo apt update
+    2  sudo apt install tree
+    3  pwd
+    4  cd ..
+    5  cd ~
+    6  ls
+    7  cd vvm
+    8  cd ..
+    9  ls
+   10  exit
+   11  history
+   12  exit
+   13  git --version
+   14  sudo apt install git
+   15  ping google.com
+   16  git branch
+   17  git clone https://github.com/mnaveedashraf/DevOps_MNARep.git
+   18  ls
+   19  cd DevOps_MNARep/
+   20  ls
+   21  cat README.md 
+   22  git branch
+   23  git help
+   24  vim
+   25  vim README.md
+   26  cat README.md 
+   27  git status
+   28  git helo
+   29  git help
+   30  git checkout -- README.md
+   31  git status
+   32  cat README.md 
+   33  vim README.md 
+   34  cat README.md 
+   35  git status
+   36  git checkout -- README.md
+   37  git status
+   38  dir
+   39  vim README.md
+   40  cat README.md 
+   41  git status
+   42  git checkout -- README.md
+   43  git checkout -- README.md.swp
+   44  git checkout -- .README.md.swp
+   45  vim .README.md.swp
+   46  rm .README.md.swp
+   47  ls
+   48  git status
+   49  rm .README.md.swp.swp
+   50  git status
+   51  vim README.md
+   52  git status
+   53  git add README.md
+   54  git Status
+   55  git status
+   56  vim README.md
+   57  git status
+   58  git log
+   59  git add README.md
+   60  git status
+   61  git commit -m "Author and Change added"
+   62  git config --global user.email "m.naveed.ashraf@gmail.com"
+   63  git config --global user.name "mnaveedashraf"
+   64  git commit -m "Author and Change added"
+   65  git status
+   66  git push
+   67  git status
+   68  pwd
+   69  ls
+   70  cd DevOps_Class_Ned/
+   71  ls
+   72  git show
+   73  git status
+   74  git log
+   75  ls
+   76  git status
+   77  cd DevOps_Class_Ned/
+   78  git status
+   79  git branch 
+   80  git checkout -b Jan06
+   81  git branch 
+   82  git help
+   83  git branch 
+   84  history
+   85  git status
+   86  ls
+   87  git .gitconfig
+   88  ls -lah
+   89  cd .git
+   90  ls -lah
+   91  cd config
+   92  cat config 
+   93  ls -lah
+   94  cd ..
+   95  ls -lah
+   96  cd .git
+   97  ls -lah
+   98  git log
+   99  git show
+  100  cd ..
+  101  ls
+  102  git status
+  103  git branch
+  104  df -kh
+  105  git show
+  106  git help
+  107  git status
+  108  git log
+  109  git show
+  110  git branch
+  111  git branch dec30
+  112  git checkout dec30 
+  113  git branch
+  114  git checkout main
+  115  git branch
+  116  git checkout Jan06
+  117  git status
+  118  git help
+  119  git branch
+  120  ls
+  121  git status
+  122  history >mnahistory06012024.txt
+  123  ls
+  124  git status
+  125  mkdir jan24
+  126  ls
+  127  mv mnahistory06012024.txt /jan24
+  128  sudo mv mnahistory06012024.txt /jan24
+  129  ls
+  130  cd jan24/
+  131  ls
+  132  ls -lah
+  133  cd..
+  134  ls -lah
+  135  ls
+  136  pwd
+  137  cd ..
+  138  ls
+  139  cd jan24
+  140  ls
+  141  dir
+  142  ls
+  143  pwd
+  144  cd ..
+  145  history >mnahistory06012024.txt
+  146  ls
+  147  sudo mv mnahistory06012024.txt /jan24 
+  148  ls
+  149  cd jan24/
+  150  ls
+  151  cd ..
+  152  history >mnahistory06012024.txt
+  153  git mv mnahistory06012024.txt /jan24 
+  154  ks
+  155  ls
+  156  git mv mnahistory06012024.txt 
+  157  git mv --f mnahistory06012024.txt 
+  158  git mv --f mnahistory06012024.txt /jan24 
+  159  ls
+  160  git status
+  161  git mv mnahistory06012024.txt jan24/
+  162  git add mnahistory06012024.txt
+  163  git commit -m "Add mnahistory06012024.txt for tracking"
+  164  git mv mnahistory06012024.txt jan24/
+  165  ls 
+  166  cd jan24/
+  167  ls
+  168  cd ..
+  169  git status
+  170  git commit -m "Move mnahistory06012024.txt to jan24 directory"
+  171  git status
+  172  git push
+  173  git status
+  174  git branch
+  175  git checkout dec30
+  176  git branhc
+  177  git branch
+  178  get merge Jan06
+  179  git merge Jan06 
+  180  git checkout Jan06 
+  181  git branch
+  182  ls
+  183  git status
+  184  git push
+  185  git branch
+  186  git merge dec30
+  187  git checkout dec30
+  188  git branch
+  189  ls
+  190  git push
+  191  git status
+  192  cd..
+  193  cd ..
+  194  ls
+  195  ls -lah
+  196  pwd
+  197  cd..
+  198  cd ..
+  199  pwd
+  200  ls
+  201  cd vagrant/
+  202  ls
+  203  cd ..
+  204  pwd
+  205  ls
+  206  cd vagrant/
+  207  ls
+  208  pwd
+  209  cd ~
+  210  ls
+  211  cd ..
+  212  ls
+  213  cd ..
+  214  ls
+  215  cd vagrant/
+  216  ls
+  217  ls -lah
+  218  nano Vagrantfile 
+  219  exit
+  220  ip as
+  221  ip
+  222  ping localhost
+  223  ip a 
+  224  ip a s
+  225  uptime
+  226  date
+  227  uptime
+  228  free -m
+  229  apache
+  230  top
+  231  xtop
+  232  htop
+  233  top
+  234  itop
+  235  htop
+  236  sudo apt-get update
+  237  htop
+  238  df -h
+  239  df -kh
+  240  df help
+  241  df /?
+  242  df
+  243  man df
+  244  man free
+  245  man df
+  246  free hw
+  247  free hc5
+  248  free --help
+  249  free -m
+  250  free -h
+  251  free -hs 1
+  252  apache2
+  253  sudo apt install apache2
+  254  apache2
+  255  apache
+  256  sudo apt install nginx
+  257  nginx status
+  258  netstat
+  259  sudo apt install netstat
+  260  ss
+  261  netstat
+  262  systemctl status nginx
+  263  sudo service nginx start
+  264  systemctl status nginx
+  265  netstat
+  266  ss
+  267  systemctl status nginx
+  268  sudo tail /var/log/nginx/error.log
+  269  netstat
+  270  sudo apt install net-tools
+  271  netstat
+  272  nginx -t
+  273  sudo netstat -tulnp | grep :80
+  274  sudo ss -tulnp | grep :80
+  275  sudo systemctl stop apache2
+  276  sudo systemctl disable apache2
+  277  sudo systemctl start nginx
+  278  systemctl status nginx
+  279  netstat -s
+  280  ping google.co
+  281  netstat an
+  282  netstat anu
+  283  netstat ant
+  284  netstat i
+  285  netstat -anu
+  286  netstat -ant
+  287  netstat -a
+  288  netstat -at
+  289  netstat -p
+  290* netstat -ant
+  291  netstat -ant
+  292  netstat -antp
+  293  netstat -ants
+  294  netstat -antp | grep 80
+  295* netstat -
+  296  netstat -antp | grep listen
+  297  netstat -antp | grep etablished
+  298  netstat -antp | grep LISTEN
+  299  pwd
+  300  git branch
+  301  git
+  302  ls
+  303  cd DevOps_Class_Ned/
+  304  git branch
+  305  git -b Jan07
+  306  git branch -b Jan07
+  307  git branch
+  308  history > mnahistor07012024
